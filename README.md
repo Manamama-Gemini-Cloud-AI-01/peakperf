@@ -1,5 +1,9 @@
 # peakperf
-Microbenchmark to achieve peak performance on x86_64 CPUs and NVIDIA GPUs.
+Microbenchmark to achieve peak performance on x86_64 CPUs and NVIDIA **and NEON**  GPUs.
+
+Added support for NEON (Droid) CPUs, see here in short how to: https://github.com/Dr-Noob/peakperf/issues/31 
+
+
 
 **Table of Contents**
 <!-- UPDATE with: doctoc --notitle README.md -->
